@@ -1,3 +1,6 @@
 -Rand to Cents
+multiply cents by 100
+
 -km to m
 -l to ml
+
